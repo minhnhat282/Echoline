@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="unit_days">
+        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d days</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="one">%1$d hour</item>
+        <item quantity="other">%1$d hours</item>
+    </plurals>
+    <plurals name="rules_import_result">
+        <item quantity="one">Imported %1$d rule, skipped %2$d invalid entries</item>
+        <item quantity="other">Imported %1$d rules, skipped %2$d invalid entries</item>
+    </plurals>
+    <plurals name="rules_import_system_result">
+        <item quantity="one">Imported %1$d of %2$d number</item>
+        <item quantity="other">Imported %1$d of %2$d numbers</item>
+    </plurals>
+</resources>

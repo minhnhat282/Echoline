@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nâu thương hiệu: dùng cho nền biểu tượng và màu nhấn thông báo. -->
+    <color name="brand_brown">#7A4A2B</color>
+    <color name="ic_launcher_background">#6F4426</color>
+    <color name="ic_launcher_glyph">#FFF1E4</color>
+    <color name="window_background">#FFFFF8F5</color>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="unit_days">
+        <item quantity="other">%1$d ngày</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">%1$d giờ</item>
+    </plurals>
+    <plurals name="rules_import_result">
+        <item quantity="other">Đã nhập %1$d quy tắc, bỏ qua %2$d mục không hợp lệ</item>
+    </plurals>
+    <plurals name="rules_import_system_result">
+        <item quantity="other">Đã nhập %1$d trên %2$d số</item>
+    </plurals>
+</resources>
